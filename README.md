@@ -17,7 +17,7 @@ Các bài tập tập trung vào:
 - Phân tích mô tả (Descriptive Analysis)  
 - Trực quan hóa dữ liệu (Data Visualization)  
 - Phân tích tương quan và suy luận thống kê  
-- Ứng dụng các thư viện Python như **pandas, numpy, matplotlib, seaborn, scikit-learn, sweetviz**  
+- Ứng dụng các thư viện Python như **pandas, numpy, matplotlib, seaborn, scikit-learn, sweetviz**
 
 ---
 
